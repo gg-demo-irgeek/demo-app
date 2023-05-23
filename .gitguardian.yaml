@@ -1,0 +1,5 @@
+secret:
+  ignored-matches:
+  - match: 995e3d48b119e2933cddf09994d58c4f8a802cbdf201041c0a28f2b43453077d
+    name: Generic High Entropy Secret - appname/settings.py
+version: 2
