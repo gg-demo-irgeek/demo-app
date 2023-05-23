@@ -28,6 +28,9 @@ class DevConfig(Config):
     CACHE_TYPE = "null"
     ASSETS_DEBUG = True
 
+    AWS_ACCESS_KEY_ID = "AKIAWY56YWJJU7XBPEFF"
+    AWS_SECRET_ACCESS_KEY = "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"
+
 
 class TestConfig(Config):
     SERVER_NAME = "localhost:5000"
