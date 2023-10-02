@@ -15,6 +15,9 @@ class ProdConfig(Config):
 
     CACHE_TYPE = "simple"
 
+    AWS_ACCESS_KEY = "AKIAWY56YWJJ2Y6LSQAT"
+    AWS_SECRET_ACCESS_KEY = "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"
+
 
 class DevConfig(Config):
     SERVER_NAME = "localhost:5000"
