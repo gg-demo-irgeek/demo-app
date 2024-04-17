@@ -46,4 +46,4 @@ class TestConfig(Config):
     CACHE_TYPE = "null"
     WTF_CSRF_ENABLED = False
 
-    GG_VALID_TOKEN = "ggtt-v-eeyi0arovo"
+    GG_VALID_TOKEN = "ggtt-v-oi2inoo4ei"
