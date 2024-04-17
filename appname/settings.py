@@ -14,6 +14,7 @@ class ProdConfig(Config):
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     CACHE_TYPE = "simple"
+    SECRET_KEY = "ggtt-v-Ohjeeshae7
 
     AWS_ACCESS_KEY = "AKIAWY56YWJJ2Y6LSQAT"
     AWS_SECRET_ACCESS_KEY = "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"
